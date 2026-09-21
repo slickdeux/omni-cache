@@ -22,3 +22,10 @@ cache = OmniCache(500)
 # Access keys
 cache.access("user_123")
 `
+
+## License & Commercial Use
+This project is licensed under the **GNU AGPLv3**. 
+
+**What this means:** You are free to use, modify, and distribute this software for academic, personal, or open-source projects, provided that any derivative works or cloud services utilizing this code are also open-sourced under the AGPL. 
+
+**Commercial Licensing:** If you are a corporation or cloud infrastructure provider (e.g., AWS, GCP, Azure) wishing to use OmniCache in a proprietary, closed-source production environment, you must purchase a commercial license. Please contact the author for commercial licensing details.
